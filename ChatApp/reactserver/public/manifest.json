@@ -1,0 +1,27 @@
+{
+  "short_name": "Chat It Up",
+  "name": "INFO3139 Chat App",
+  "icons": [
+    {
+      "src": "chat.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "maskable_icon_x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "maskable_icon_x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
